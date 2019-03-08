@@ -1,4 +1,5 @@
-import sys
-n = int(input('enter a no : '))
-if n%2==0 :  print('Even')
-else :  print('Odd')
+k=int(input())
+if(k%2==0):
+	print("Even")
+else:
+	print("Odd")
